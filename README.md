@@ -190,13 +190,9 @@ CGPA: 8.47/10
 
 ## 📄 Resume
 
-Interested in knowing more about my education, experience and projects?
+## 📄 My Resume
 
-[![Download Resume](https://img.shields.io/badge/Download_My_Resume-PDF-purple?style=for-the-badge&logo=adobeacrobatreader)](./Mohammed_Farman_Resume.pdf)
-
----
-
-<div align="center">
+[![Download Resume](https://img.shields.io/badge/Download-My_Resume-purple?style=for-the-badge&logo=adobeacrobatreader)](./711524BCS094_Mohammed-Farman_Resume%20%285%29.pdf)
 
 ### 💡 Learn. Build. Innovate.
 
